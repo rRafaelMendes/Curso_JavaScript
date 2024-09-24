@@ -21,3 +21,4 @@ console.log(sobrenome, bemHumorado)
 const { endereco: { logradouro, numero, cep } } = pessoa
 console.log(logradouro, numero, cep)
 
+//Destructuring é uma expressão JavaSript que possibilita descompctar valores de matrizes ou propriedades de objetos em variáveis distintas.
