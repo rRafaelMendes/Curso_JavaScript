@@ -1,2 +1,2 @@
 # Curso_JavaScript
- Curso completo de JavaScrip
+ Curso completo de JavaScript
